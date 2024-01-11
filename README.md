@@ -1,2 +1,1 @@
-# find-a-friend
- Application for animal adoption
+#  find-a-friend
